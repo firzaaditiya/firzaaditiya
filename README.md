@@ -2,6 +2,22 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI4Y2F3OG03MjE1MG81MnZkamU4NnMwbXViZzQ4amx0NzZ0YXFpbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif" align="center" style="width: 100%" />
 </div>
 
+<br/>
+
+<div align="center">
+    <span align="center">
+<img src="https://komarev.com/ghpvc/?username=firzaaditiya&&style=flat-square" align="center" />
+</span>
+
+<span align="center">
+            <a href="https://paypal.me/firzaaditiya" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a></span>
+</div>
+
 ### <div align="center">Hi, I'm Firza Aditiya 👋
 
 </div>
@@ -33,17 +49,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=firzaaditiya&show_icons=true&locale=en" alt="firzaaditiya" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=firzaaditiya&show_icons=true&locale=en&layout=compact" alt="firzaaditiya" /></p>
-
-<span align="center">
-<img src="https://komarev.com/ghpvc/?username=firzaaditiya&&style=flat-square" align="center" />
-</span>
-<span align="center">
-            <a href="https://paypal.me/firzaaditiya" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></span>
 
 <br/>
 
