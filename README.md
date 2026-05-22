@@ -47,9 +47,6 @@
 <a target="_blank" href="https://www.youtube.com/@tujuanpelajar" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <a target="_blank" href="https://t.me/firzaaditiya" style="display: inline-block;"><img src="https://img.shields.io/badge/telegram-logo?style=for-the-badge&logo=telegram&logoColor=white&color=%230088CC" alt="telegram" /></a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=firzaaditiya&show_icons=true&locale=en" alt="firzaaditiya" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=firzaaditiya&show_icons=true&locale=en&layout=compact" alt="firzaaditiya" /></p>
-
 <br/>
 
 ###
